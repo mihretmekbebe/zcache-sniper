@@ -1,0 +1,3472 @@
+[SNIPER] Start
+Zcache is being created
+
+Constructor for way entered
+Constructor for way done
+Constructor for way entered
+Constructor for way done
+Constructor for way entered
+Constructor for way done
+Constructor for way entered
+Constructor for way done
+Constructor for way entered
+Constructor for way done
+Constructor for way entered
+Constructor for way done
+Constructor for way entered
+Constructor for way done
+Constructor for way entered
+Constructor for way done
+Constructor for way entered
+Constructor for way done
+Constructor for way entered
+Constructor for way done
+Constructor for way entered
+Constructor for way done
+Constructor for way entered
+Constructor for way done
+Constructor for way entered
+Constructor for way done
+Constructor for way entered
+Constructor for way done
+Constructor for way entered
+Constructor for way done
+Constructor for way entered
+Constructor for way done
+[SNIPER] --------------------------------------------------------------------------------
+[SNIPER] Sniper using Pin frontend
+[SNIPER] Running full application in DETAILED mode
+[SNIPER] --------------------------------------------------------------------------------
+[SNIPER] Enabling performance models
+[SNIPER] Setting instrumentation mode to DETAILED
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Insert single line enter
+Replacement tree constructor enter
+Replacement tree constructor end
+Get replacement index enter
+Creating replacement tree level of ass 16 at level 0
+
+CT: wayid: 0 parent->way_id : -1
+CT: wayid: 1 parent->way_id : -1
+CT: wayid: 2 parent->way_id : -1
+CT: wayid: 3 parent->way_id : -1
+CT: wayid: 4 parent->way_id : -1
+CT: wayid: 5 parent->way_id : -1
+CT: wayid: 6 parent->way_id : -1
+CT: wayid: 7 parent->way_id : -1
+CT: wayid: 8 parent->way_id : -1
+CT: wayid: 9 parent->way_id : -1
+CT: wayid: 10 parent->way_id : -1
+CT: wayid: 11 parent->way_id : -1
+CT: wayid: 12 parent->way_id : -1
+CT: wayid: 13 parent->way_id : -1
+CT: wayid: 14 parent->way_id : -1
+CT: wayid: 15 parent->way_id : -1
+Created replacement tree level 0
+
+Replacement tree constructor enter
+Replacement tree constructor end
+Traversing replacement tree level
+
+Completed traversing replacement tree
+Delete tree enter
+Replacement tree destructor enter
+Replacement tree destructor end
+Delete tree end
+Get replacement index exit
+Insert enter
+Way 15: index: 6233 tag 0x1FE81814C02 inserted
+Insert end
+Insert single line end
+Replacement tree destructor enter
+Replacement tree destructor end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Read enter
+Read end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Read enter
+Read end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Insert single line enter
+Replacement tree constructor enter
+Replacement tree constructor end
+Get replacement index enter
+Creating replacement tree level of ass 16 at level 0
+
+CT: wayid: 0 parent->way_id : -1
+CT: wayid: 1 parent->way_id : -1
+CT: wayid: 2 parent->way_id : -1
+CT: wayid: 3 parent->way_id : -1
+CT: wayid: 4 parent->way_id : -1
+CT: wayid: 5 parent->way_id : -1
+CT: wayid: 6 parent->way_id : -1
+CT: wayid: 7 parent->way_id : -1
+CT: wayid: 8 parent->way_id : -1
+CT: wayid: 9 parent->way_id : -1
+CT: wayid: 10 parent->way_id : -1
+CT: wayid: 11 parent->way_id : -1
+CT: wayid: 12 parent->way_id : -1
+CT: wayid: 13 parent->way_id : -1
+CT: wayid: 14 parent->way_id : -1
+CT: wayid: 15 parent->way_id : -1
+Created replacement tree level 0
+
+Replacement tree constructor enter
+Replacement tree constructor end
+Traversing replacement tree level
+
+Completed traversing replacement tree
+Delete tree enter
+Replacement tree destructor enter
+Replacement tree destructor end
+Delete tree end
+Get replacement index exit
+Insert enter
+Way 15: index: 2655 tag 0x1FFF4177E08 inserted
+Insert end
+Insert single line end
+Replacement tree destructor enter
+Replacement tree destructor end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Read enter
+Read end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Read enter
+Read end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Insert single line enter
+Replacement tree constructor enter
+Replacement tree constructor end
+Get replacement index enter
+Creating replacement tree level of ass 16 at level 0
+
+CT: wayid: 0 parent->way_id : -1
+CT: wayid: 1 parent->way_id : -1
+CT: wayid: 2 parent->way_id : -1
+CT: wayid: 3 parent->way_id : -1
+CT: wayid: 4 parent->way_id : -1
+CT: wayid: 5 parent->way_id : -1
+CT: wayid: 6 parent->way_id : -1
+CT: wayid: 7 parent->way_id : -1
+CT: wayid: 8 parent->way_id : -1
+CT: wayid: 9 parent->way_id : -1
+CT: wayid: 10 parent->way_id : -1
+CT: wayid: 11 parent->way_id : -1
+CT: wayid: 12 parent->way_id : -1
+CT: wayid: 13 parent->way_id : -1
+CT: wayid: 14 parent->way_id : -1
+CT: wayid: 15 parent->way_id : -1
+Created replacement tree level 0
+
+Replacement tree constructor enter
+Replacement tree constructor end
+Traversing replacement tree level
+
+Completed traversing replacement tree
+Delete tree enter
+Replacement tree destructor enter
+Replacement tree destructor end
+Delete tree end
+Get replacement index exit
+Insert enter
+Way 15: index: 6289 tag 0x1FE81814C3A inserted
+Insert end
+Insert single line end
+Replacement tree destructor enter
+Replacement tree destructor end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Read enter
+Read end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Read enter
+Read end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Insert single line enter
+Replacement tree constructor enter
+Replacement tree constructor end
+Get replacement index enter
+Creating replacement tree level of ass 16 at level 0
+
+CT: wayid: 0 parent->way_id : -1
+CT: wayid: 1 parent->way_id : -1
+CT: wayid: 2 parent->way_id : -1
+CT: wayid: 3 parent->way_id : -1
+CT: wayid: 4 parent->way_id : -1
+CT: wayid: 5 parent->way_id : -1
+CT: wayid: 6 parent->way_id : -1
+CT: wayid: 7 parent->way_id : -1
+CT: wayid: 8 parent->way_id : -1
+CT: wayid: 9 parent->way_id : -1
+CT: wayid: 10 parent->way_id : -1
+CT: wayid: 11 parent->way_id : -1
+CT: wayid: 12 parent->way_id : -1
+CT: wayid: 13 parent->way_id : -1
+CT: wayid: 14 parent->way_id : -1
+CT: wayid: 15 parent->way_id : -1
+Created replacement tree level 0
+
+Replacement tree constructor enter
+Replacement tree constructor end
+Traversing replacement tree level
+
+Completed traversing replacement tree
+Delete tree enter
+Replacement tree destructor enter
+Replacement tree destructor end
+Delete tree end
+Get replacement index exit
+Insert enter
+Way 15: index: 2654 tag 0x1FFF4177E07 inserted
+Insert end
+Insert single line end
+Replacement tree destructor enter
+Replacement tree destructor end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Read enter
+Read end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Read enter
+Read end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Insert single line enter
+Replacement tree constructor enter
+Replacement tree constructor end
+Get replacement index enter
+Creating replacement tree level of ass 16 at level 0
+
+CT: wayid: 0 parent->way_id : -1
+CT: wayid: 1 parent->way_id : -1
+CT: wayid: 2 parent->way_id : -1
+CT: wayid: 3 parent->way_id : -1
+CT: wayid: 4 parent->way_id : -1
+CT: wayid: 5 parent->way_id : -1
+CT: wayid: 6 parent->way_id : -1
+CT: wayid: 7 parent->way_id : -1
+CT: wayid: 8 parent->way_id : -1
+CT: wayid: 9 parent->way_id : -1
+CT: wayid: 10 parent->way_id : -1
+CT: wayid: 11 parent->way_id : -1
+CT: wayid: 12 parent->way_id : -1
+CT: wayid: 13 parent->way_id : -1
+CT: wayid: 14 parent->way_id : -1
+CT: wayid: 15 parent->way_id : -1
+Created replacement tree level 0
+
+Replacement tree constructor enter
+Replacement tree constructor end
+Traversing replacement tree level
+
+Completed traversing replacement tree
+Delete tree enter
+Replacement tree destructor enter
+Replacement tree destructor end
+Delete tree end
+Get replacement index exit
+Insert enter
+Way 15: index: 6290 tag 0x1FE81814C3B inserted
+Insert end
+Insert single line end
+Replacement tree destructor enter
+Replacement tree destructor end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Read enter
+Read end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Read enter
+Read end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Insert single line enter
+Replacement tree constructor enter
+Replacement tree constructor end
+Get replacement index enter
+Creating replacement tree level of ass 16 at level 0
+
+CT: wayid: 0 parent->way_id : -1
+CT: wayid: 1 parent->way_id : -1
+CT: wayid: 2 parent->way_id : -1
+CT: wayid: 3 parent->way_id : -1
+CT: wayid: 4 parent->way_id : -1
+CT: wayid: 5 parent->way_id : -1
+CT: wayid: 6 parent->way_id : -1
+CT: wayid: 7 parent->way_id : -1
+CT: wayid: 8 parent->way_id : -1
+CT: wayid: 9 parent->way_id : -1
+CT: wayid: 10 parent->way_id : -1
+CT: wayid: 11 parent->way_id : -1
+CT: wayid: 12 parent->way_id : -1
+CT: wayid: 13 parent->way_id : -1
+CT: wayid: 14 parent->way_id : -1
+CT: wayid: 15 parent->way_id : -1
+Created replacement tree level 0
+
+Replacement tree constructor enter
+Replacement tree constructor end
+Traversing replacement tree level
+
+Completed traversing replacement tree
+Delete tree enter
+Replacement tree destructor enter
+Replacement tree destructor end
+Delete tree end
+Get replacement index exit
+Insert enter
+Way 15: index: 528 tag 0x1FE8181D5B9 inserted
+Insert end
+Insert single line end
+Replacement tree destructor enter
+Replacement tree destructor end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Read enter
+Read end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Read enter
+Read end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Insert single line enter
+Replacement tree constructor enter
+Replacement tree constructor end
+Get replacement index enter
+Creating replacement tree level of ass 16 at level 0
+
+CT: wayid: 0 parent->way_id : -1
+CT: wayid: 1 parent->way_id : -1
+CT: wayid: 2 parent->way_id : -1
+CT: wayid: 3 parent->way_id : -1
+CT: wayid: 4 parent->way_id : -1
+CT: wayid: 5 parent->way_id : -1
+CT: wayid: 6 parent->way_id : -1
+CT: wayid: 7 parent->way_id : -1
+CT: wayid: 8 parent->way_id : -1
+CT: wayid: 9 parent->way_id : -1
+CT: wayid: 10 parent->way_id : -1
+CT: wayid: 11 parent->way_id : -1
+CT: wayid: 12 parent->way_id : -1
+CT: wayid: 13 parent->way_id : -1
+CT: wayid: 14 parent->way_id : -1
+CT: wayid: 15 parent->way_id : -1
+Created replacement tree level 0
+
+Replacement tree constructor enter
+Replacement tree constructor end
+Traversing replacement tree level
+
+Completed traversing replacement tree
+Delete tree enter
+Replacement tree destructor enter
+Replacement tree destructor end
+Delete tree end
+Get replacement index exit
+Insert enter
+Way 15: index: 499 tag 0x1FE8181D59C inserted
+Insert end
+Insert single line end
+Replacement tree destructor enter
+Replacement tree destructor end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Read enter
+Read end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Read enter
+Read end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Insert single line enter
+Replacement tree constructor enter
+Replacement tree constructor end
+Get replacement index enter
+Creating replacement tree level of ass 16 at level 0
+
+CT: wayid: 0 parent->way_id : -1
+CT: wayid: 1 parent->way_id : -1
+CT: wayid: 2 parent->way_id : -1
+CT: wayid: 3 parent->way_id : -1
+CT: wayid: 4 parent->way_id : -1
+CT: wayid: 5 parent->way_id : -1
+CT: wayid: 6 parent->way_id : -1
+CT: wayid: 7 parent->way_id : -1
+CT: wayid: 8 parent->way_id : -1
+CT: wayid: 9 parent->way_id : -1
+CT: wayid: 10 parent->way_id : -1
+CT: wayid: 11 parent->way_id : -1
+CT: wayid: 12 parent->way_id : -1
+CT: wayid: 13 parent->way_id : -1
+CT: wayid: 14 parent->way_id : -1
+CT: wayid: 15 parent->way_id : -1
+Created replacement tree level 0
+
+Replacement tree constructor enter
+Replacement tree constructor end
+Traversing replacement tree level
+
+Completed traversing replacement tree
+Delete tree enter
+Replacement tree destructor enter
+Replacement tree destructor end
+Delete tree end
+Get replacement index exit
+Insert enter
+Way 15: index: 535 tag 0x1FE8181D5C0 inserted
+Insert end
+Insert single line end
+Replacement tree destructor enter
+Replacement tree destructor end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Read enter
+Read end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Read enter
+Read end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Insert single line enter
+Replacement tree constructor enter
+Replacement tree constructor end
+Get replacement index enter
+Creating replacement tree level of ass 16 at level 0
+
+CT: wayid: 0 parent->way_id : -1
+CT: wayid: 1 parent->way_id : -1
+CT: wayid: 2 parent->way_id : -1
+CT: wayid: 3 parent->way_id : -1
+CT: wayid: 4 parent->way_id : -1
+CT: wayid: 5 parent->way_id : -1
+CT: wayid: 6 parent->way_id : -1
+CT: wayid: 7 parent->way_id : -1
+CT: wayid: 8 parent->way_id : -1
+CT: wayid: 9 parent->way_id : -1
+CT: wayid: 10 parent->way_id : -1
+CT: wayid: 11 parent->way_id : -1
+CT: wayid: 12 parent->way_id : -1
+CT: wayid: 13 parent->way_id : -1
+CT: wayid: 14 parent->way_id : -1
+CT: wayid: 15 parent->way_id : -1
+Created replacement tree level 0
+
+Replacement tree constructor enter
+Replacement tree constructor end
+Traversing replacement tree level
+
+Completed traversing replacement tree
+Delete tree enter
+Replacement tree destructor enter
+Replacement tree destructor end
+Delete tree end
+Get replacement index exit
+Insert enter
+Way 15: index: 575 tag 0x1FE8181D5E8 inserted
+Insert end
+Insert single line end
+Replacement tree destructor enter
+Replacement tree destructor end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Read enter
+Read end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Read enter
+Read end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Insert single line enter
+Replacement tree constructor enter
+Replacement tree constructor end
+Get replacement index enter
+Creating replacement tree level of ass 16 at level 0
+
+CT: wayid: 0 parent->way_id : -1
+CT: wayid: 1 parent->way_id : -1
+CT: wayid: 2 parent->way_id : -1
+CT: wayid: 3 parent->way_id : -1
+CT: wayid: 4 parent->way_id : -1
+CT: wayid: 5 parent->way_id : -1
+CT: wayid: 6 parent->way_id : -1
+CT: wayid: 7 parent->way_id : -1
+CT: wayid: 8 parent->way_id : -1
+CT: wayid: 9 parent->way_id : -1
+CT: wayid: 10 parent->way_id : -1
+CT: wayid: 11 parent->way_id : -1
+CT: wayid: 12 parent->way_id : -1
+CT: wayid: 13 parent->way_id : -1
+CT: wayid: 14 parent->way_id : -1
+CT: wayid: 15 parent->way_id : -1
+Created replacement tree level 0
+
+Replacement tree constructor enter
+Replacement tree constructor end
+Traversing replacement tree level
+
+Completed traversing replacement tree
+Delete tree enter
+Replacement tree destructor enter
+Replacement tree destructor end
+Delete tree end
+Get replacement index exit
+Insert enter
+Way 15: index: 574 tag 0x1FE8181D5E7 inserted
+Insert end
+Insert single line end
+Replacement tree destructor enter
+Replacement tree destructor end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Read enter
+Read end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Read enter
+Read end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Peekline enter
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Peekline end
+Insert single line enter
+Replacement tree constructor enter
+Replacement tree constructor end
+Get replacement index enter
+Creating replacement tree level of ass 16 at level 0
+
+CT: wayid: 0 parent->way_id : -1
+CT: wayid: 1 parent->way_id : -1
+CT: wayid: 2 parent->way_id : -1
+CT: wayid: 3 parent->way_id : -1
+CT: wayid: 4 parent->way_id : -1
+CT: wayid: 5 parent->way_id : -1
+CT: wayid: 6 parent->way_id : -1
+CT: wayid: 7 parent->way_id : -1
+CT: wayid: 8 parent->way_id : -1
+CT: wayid: 9 parent->way_id : -1
+CT: wayid: 10 parent->way_id : -1
+CT: wayid: 11 parent->way_id : -1
+CT: wayid: 12 parent->way_id : -1
+CT: wayid: 13 parent->way_id : -1
+CT: wayid: 14 parent->way_id : -1
+CT: wayid: 15 parent->way_id : -1
+Created replacement tree level 0
+
+Replacement tree constructor enter
+Replacement tree constructor end
+Traversing replacement tree level
+
+Completed traversing replacement tree
+Delete tree enter
+Replacement tree destructor enter
+Replacement tree destructor end
+Delete tree end
+Get replacement index exit
+Insert enter
+Way 15: index: 6291 tag 0x1FE81814C3C inserted
+Insert end
+Insert single line end
+Replacement tree destructor enter
+Replacement tree destructor end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Read enter
+Read end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Find enter
+Find end
+Read enter
+Read end
+Peekline enter
+Find enter
+Find end
+Peekline end
+Find enter
+Find end
+C: Tool (or Pin) caused signal 11 at PC 0x3042530e9
+[SNIPER] End
+[SNIPER] Elapsed time: 0.48 seconds

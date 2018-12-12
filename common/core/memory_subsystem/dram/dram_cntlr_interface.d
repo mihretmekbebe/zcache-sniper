@@ -1,0 +1,35 @@
+/home/bragadeesh153/Desktop/sniper/sniper-6.1/common/core/memory_subsystem/dram/dram_cntlr_interface.o /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/core/memory_subsystem/dram/dram_cntlr_interface.d: $(wildcard \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/core/memory_subsystem/dram/dram_cntlr_interface.cc \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/core/memory_subsystem/dram/dram_cntlr_interface.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/misc/fixed_types.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/misc/subsecond_time.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/misc/fixed_types.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/misc/lock.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/misc/itostr.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/misc/subsecond_time_c.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/performance_model/hit_where.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/core/memory_subsystem/mem_component.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/core/memory_subsystem/pr_l1_pr_l2_dram_directory_msi/shmem_msg.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/core/memory_subsystem/fast_nehalem/memory_manager.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/core/memory_subsystem/memory_manager_fast.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/core/memory_subsystem/memory_manager_base.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/core/core.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/misc/lock.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/network/packet_type.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/core/bbv_count.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/misc/cpuid.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/network/network.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/network/packet_type.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/misc/cond.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/transport/transport.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/network/network_model.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/core/memory_subsystem/mem_component.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/performance_model/performance_model.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/misc/mt_circular_queue.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/misc/circular_queue.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/misc/cond.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/performance_model/instruction_tracers/instruction_tracer.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/performance_model/hit_where.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/performance_model/shmem_perf_model.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/core/memory_subsystem/pr_l1_pr_l2_dram_directory_msi/shmem_perf.h \
+ /home/bragadeesh153/Desktop/sniper/sniper-6.1/common/misc/log.h)

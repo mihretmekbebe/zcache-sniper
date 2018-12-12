@@ -1,0 +1,8 @@
+echo 0 | sudo tee /proc/sys/kernel/yama/ptrace_scope : for gdb
+
+
+./run-sniper -g --perf_model/l3_cache/is_zcache=true -c zcache_conf -- /bin/ls
+
+
+
+
